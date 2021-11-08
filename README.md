@@ -1,1 +1,1 @@
-# dbt-learn-moshu
+# dbt-learn
